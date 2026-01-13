@@ -612,3 +612,21 @@ a img {
   pointer-events: auto;
 }
 
+/* Default: Desktop */
+.call-mobile {
+  display: none;
+}
+
+/* Mobile view */
+@media (max-width: 576px) {
+  .call-desktop {
+    display: none;
+  }
+
+  .call-mobile {
+    display: inline;
+  }
+}
+
+
+
