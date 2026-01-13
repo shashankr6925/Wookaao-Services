@@ -120,7 +120,7 @@ overflow-x: hidden;
   border-radius: 50px;
   text-decoration: none;
   font-weight: 800;
-  font-size: 22px;
+  font-size: 28px;
   transition: all 0.3s;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
@@ -570,7 +570,7 @@ footer {
   }
   .cta-button {
     padding: 15px 30px;
-    font-size: 18px;
+    font-size: 21px;
     width: 100%;
     text-align: center;
   }
@@ -611,3 +611,4 @@ img {
 a img {
   pointer-events: auto;
 }
+
